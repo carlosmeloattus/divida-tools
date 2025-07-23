@@ -1,0 +1,21 @@
+api:
+  base_url: https://apidev.attus.ai
+  endpoint: /divida/dividas
+  tenant: PGESP
+  user: carlos.melo@attus.ai
+  password: sua_senha
+
+  auth:
+    url: /uaa/oauth/token
+    basic: "QVROOT1JTQVRVVVM6c2V1X3NlY3JldA=="
+
+generate:
+  ano_inicio: 2022
+  ano_fim: 2024
+  min_valor: 1000
+  max_valor: 200000
+  devedores: devedores.yml
+  categoria_identificadores: [ "1", "4" ]
+  tributo_identificadores: [ "2" ]
+  situacao_tipo_ids: [ "1", "2", "3" ]
+  orgao_origem_id: 1

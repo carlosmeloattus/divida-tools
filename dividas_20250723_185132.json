@@ -1,0 +1,1522 @@
+[
+  {
+    "identificador": "6.061.342.611",
+    "numero": "6.061.342.611",
+    "processoInscricao": "631132483837",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-03-31T16:06:45",
+    "dataBase": "2024",
+    "dataLancamento": "2022-03-31T16:06:45",
+    "dataConstituicaoCredito": "2022-05-03T03:59:15",
+    "dataCienciaFato": "2024-10-07T01:43:07",
+    "dataPrescricao": "2024-10-07T01:43:07",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829332",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 127275.08,
+    "valorTotalSemHonorarios": 127275.08,
+    "valorImpostoAtual": 127275.08,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "6.222.590.005",
+    "numero": "6.222.590.005",
+    "processoInscricao": "4327258747704",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-12-04T17:12:17",
+    "dataBase": "2024",
+    "dataLancamento": "2024-12-04T17:12:17",
+    "dataConstituicaoCredito": "2024-08-25T18:05:41",
+    "dataCienciaFato": "2023-10-01T08:05:22",
+    "dataPrescricao": "2023-10-01T08:05:22",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829527",
+      "tipo": {
+        "id": "3"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 97550.7,
+    "valorTotalSemHonorarios": 97550.7,
+    "valorImpostoAtual": 97550.7,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "9.200.866.614",
+    "numero": "9.200.866.614",
+    "processoInscricao": "8658791249295",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-12-19T16:21:34",
+    "dataBase": "2024",
+    "dataLancamento": "2022-12-19T16:21:34",
+    "dataConstituicaoCredito": "2023-06-17T17:33:30",
+    "dataCienciaFato": "2023-12-24T01:01:39",
+    "dataPrescricao": "2023-12-24T01:01:39",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829636",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 36666.72,
+    "valorTotalSemHonorarios": 36666.72,
+    "valorImpostoAtual": 36666.72,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "4.818.634.600",
+    "numero": "4.818.634.600",
+    "processoInscricao": "679773468192",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-04-30T08:26:52",
+    "dataBase": "2024",
+    "dataLancamento": "2023-04-30T08:26:52",
+    "dataConstituicaoCredito": "2022-09-05T17:25:21",
+    "dataCienciaFato": "2023-12-15T01:48:05",
+    "dataPrescricao": "2023-12-15T01:48:05",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829737",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 69514.9,
+    "valorTotalSemHonorarios": 69514.9,
+    "valorImpostoAtual": 69514.9,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "5.199.355.768",
+    "numero": "5.199.355.768",
+    "processoInscricao": "9682304376809",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-01-11T12:22:52",
+    "dataBase": "2024",
+    "dataLancamento": "2022-01-11T12:22:52",
+    "dataConstituicaoCredito": "2023-10-24T16:34:39",
+    "dataCienciaFato": "2023-03-14T08:58:07",
+    "dataPrescricao": "2023-03-14T08:58:07",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829835",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 75327.84,
+    "valorTotalSemHonorarios": 75327.84,
+    "valorImpostoAtual": 75327.84,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "7.829.703.603",
+    "numero": "7.829.703.603",
+    "processoInscricao": "7816714386719",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-12-11T01:01:38",
+    "dataBase": "2024",
+    "dataLancamento": "2023-12-11T01:01:38",
+    "dataConstituicaoCredito": "2022-03-27T04:23:55",
+    "dataCienciaFato": "2023-06-19T23:25:46",
+    "dataPrescricao": "2023-06-19T23:25:46",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.829960",
+      "tipo": {
+        "id": "3"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 168132.55,
+    "valorTotalSemHonorarios": 168132.55,
+    "valorImpostoAtual": 168132.55,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "7.158.343.767",
+    "numero": "7.158.343.767",
+    "processoInscricao": "3328643070924",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-07-16T15:43:51",
+    "dataBase": "2024",
+    "dataLancamento": "2024-07-16T15:43:51",
+    "dataConstituicaoCredito": "2023-03-18T15:15:33",
+    "dataCienciaFato": "2024-10-02T08:50:22",
+    "dataPrescricao": "2024-10-02T08:50:22",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830050",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 96080.06,
+    "valorTotalSemHonorarios": 96080.06,
+    "valorImpostoAtual": 96080.06,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "4.595.020.552",
+    "numero": "4.595.020.552",
+    "processoInscricao": "9910518184494",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-01-25T23:14:21",
+    "dataBase": "2024",
+    "dataLancamento": "2024-01-25T23:14:21",
+    "dataConstituicaoCredito": "2022-03-28T12:21:35",
+    "dataCienciaFato": "2023-08-03T06:34:16",
+    "dataPrescricao": "2023-08-03T06:34:16",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830140",
+      "tipo": {
+        "id": "3"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 8640.82,
+    "valorTotalSemHonorarios": 8640.82,
+    "valorImpostoAtual": 8640.82,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "5.414.646.611",
+    "numero": "5.414.646.611",
+    "processoInscricao": "8395108105681",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-06-16T01:35:11",
+    "dataBase": "2024",
+    "dataLancamento": "2022-06-16T01:35:11",
+    "dataConstituicaoCredito": "2022-02-10T18:19:35",
+    "dataCienciaFato": "2024-01-10T02:46:47",
+    "dataPrescricao": "2024-01-10T02:46:47",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830229",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 34946.52,
+    "valorTotalSemHonorarios": 34946.52,
+    "valorImpostoAtual": 34946.52,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "7.395.957.332",
+    "numero": "7.395.957.332",
+    "processoInscricao": "6476781808760",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-06-17T04:09:46",
+    "dataBase": "2024",
+    "dataLancamento": "2023-06-17T04:09:46",
+    "dataConstituicaoCredito": "2022-10-08T14:11:01",
+    "dataCienciaFato": "2023-04-19T20:50:34",
+    "dataPrescricao": "2023-04-19T20:50:34",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830344",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 42731.95,
+    "valorTotalSemHonorarios": 42731.95,
+    "valorImpostoAtual": 42731.95,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "2.133.241.237",
+    "numero": "2.133.241.237",
+    "processoInscricao": "5363475477877",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-05-31T19:27:20",
+    "dataBase": "2024",
+    "dataLancamento": "2023-05-31T19:27:20",
+    "dataConstituicaoCredito": "2024-01-08T19:01:57",
+    "dataCienciaFato": "2022-10-21T15:44:15",
+    "dataPrescricao": "2022-10-21T15:44:15",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830440",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 97873.91,
+    "valorTotalSemHonorarios": 97873.91,
+    "valorImpostoAtual": 97873.91,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "3.941.547.950",
+    "numero": "3.941.547.950",
+    "processoInscricao": "4847918352598",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-09-08T10:59:17",
+    "dataBase": "2024",
+    "dataLancamento": "2024-09-08T10:59:17",
+    "dataConstituicaoCredito": "2024-08-13T13:28:41",
+    "dataCienciaFato": "2022-05-17T12:30:03",
+    "dataPrescricao": "2022-05-17T12:30:03",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830536",
+      "tipo": {
+        "id": "3"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 42154.25,
+    "valorTotalSemHonorarios": 42154.25,
+    "valorImpostoAtual": 42154.25,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "1.233.694.226",
+    "numero": "1.233.694.226",
+    "processoInscricao": "6337468943995",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-08-20T20:03:14",
+    "dataBase": "2024",
+    "dataLancamento": "2022-08-20T20:03:14",
+    "dataConstituicaoCredito": "2022-04-14T04:55:05",
+    "dataCienciaFato": "2022-01-07T08:15:02",
+    "dataPrescricao": "2022-01-07T08:15:02",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830628",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 47758.61,
+    "valorTotalSemHonorarios": 47758.61,
+    "valorImpostoAtual": 47758.61,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "8.084.600.367",
+    "numero": "8.084.600.367",
+    "processoInscricao": "4149094917861",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-01-13T09:22:32",
+    "dataBase": "2024",
+    "dataLancamento": "2024-01-13T09:22:32",
+    "dataConstituicaoCredito": "2023-11-15T22:30:05",
+    "dataCienciaFato": "2022-06-03T18:08:22",
+    "dataPrescricao": "2022-06-03T18:08:22",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Av. B",
+      "numero": "200",
+      "bairro": "Barra",
+      "complemento": "",
+      "cep": "22020002",
+      "uf": "RJ",
+      "nomeMunicipio": "Rio de Janeiro"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "João Souza"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "98765432100"
+      },
+      "telefonePrincipal": {
+        "numero": "(21) 98888‑1111"
+      },
+      "emailPrincipal": {
+        "nome": "joao.souza@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Av. B",
+        "numero": "200",
+        "bairro": "Barra",
+        "complemento": "",
+        "cep": "22020002",
+        "uf": "RJ",
+        "nomeMunicipio": "Rio de Janeiro"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830720",
+      "tipo": {
+        "id": "2"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 189840.64,
+    "valorTotalSemHonorarios": 189840.64,
+    "valorImpostoAtual": 189840.64,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "3.005.934.203",
+    "numero": "3.005.934.203",
+    "processoInscricao": "4497830339273",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-12-06T08:06:41",
+    "dataBase": "2024",
+    "dataLancamento": "2023-12-06T08:06:41",
+    "dataConstituicaoCredito": "2023-09-05T12:06:37",
+    "dataCienciaFato": "2022-12-20T07:15:01",
+    "dataPrescricao": "2022-12-20T07:15:01",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830805",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 17288.12,
+    "valorTotalSemHonorarios": 17288.12,
+    "valorImpostoAtual": 17288.12,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "3.118.334.192",
+    "numero": "3.118.334.192",
+    "processoInscricao": "7883964110198",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-01-21T19:19:33",
+    "dataBase": "2024",
+    "dataLancamento": "2023-01-21T19:19:33",
+    "dataConstituicaoCredito": "2023-03-14T05:51:07",
+    "dataCienciaFato": "2024-10-04T01:29:57",
+    "dataPrescricao": "2024-10-04T01:29:57",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.830917",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 159682.27,
+    "valorTotalSemHonorarios": 159682.27,
+    "valorImpostoAtual": 159682.27,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "1.258.920.651",
+    "numero": "1.258.920.651",
+    "processoInscricao": "8353984674796",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2022-06-30T03:23:17",
+    "dataBase": "2024",
+    "dataLancamento": "2022-06-30T03:23:17",
+    "dataConstituicaoCredito": "2022-08-08T04:25:08",
+    "dataCienciaFato": "2024-02-03T21:23:34",
+    "dataPrescricao": "2024-02-03T21:23:34",
+    "categoria": {
+      "identificadorNoCliente": "4"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.831007",
+      "tipo": {
+        "id": "3"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 177413.24,
+    "valorTotalSemHonorarios": 177413.24,
+    "valorImpostoAtual": 177413.24,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "7.045.609.916",
+    "numero": "7.045.609.916",
+    "processoInscricao": "2749148015666",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-02-15T22:15:34",
+    "dataBase": "2024",
+    "dataLancamento": "2023-02-15T22:15:34",
+    "dataConstituicaoCredito": "2022-12-23T23:44:58",
+    "dataCienciaFato": "2023-08-14T10:14:00",
+    "dataPrescricao": "2023-08-14T10:14:00",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.831105",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 62650.55,
+    "valorTotalSemHonorarios": 62650.55,
+    "valorImpostoAtual": 62650.55,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "3.165.463.365",
+    "numero": "3.165.463.365",
+    "processoInscricao": "4522145707173",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2023-05-10T20:10:07",
+    "dataBase": "2024",
+    "dataLancamento": "2023-05-10T20:10:07",
+    "dataConstituicaoCredito": "2022-01-06T23:51:22",
+    "dataCienciaFato": "2024-09-20T13:52:11",
+    "dataPrescricao": "2024-09-20T13:52:11",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.831211",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 153866.79,
+    "valorTotalSemHonorarios": 153866.79,
+    "valorImpostoAtual": 153866.79,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  },
+  {
+    "identificador": "1.826.013.276",
+    "numero": "1.826.013.276",
+    "processoInscricao": "6628087877551",
+    "numeroBemFato": null,
+    "numeroDocumentoFato": null,
+    "fato": null,
+    "dataInscricao": "2024-06-30T08:52:37",
+    "dataBase": "2024",
+    "dataLancamento": "2024-06-30T08:52:37",
+    "dataConstituicaoCredito": "2023-08-05T22:16:06",
+    "dataCienciaFato": "2024-07-09T16:22:54",
+    "dataPrescricao": "2024-07-09T16:22:54",
+    "categoria": {
+      "identificadorNoCliente": "1"
+    },
+    "infracao": null,
+    "tributo": {
+      "identificadorNoCliente": "2"
+    },
+    "orgaoOrigemId": 1,
+    "natureza": "TRIBUTARIA",
+    "endereco": {
+      "logradouro": "Rua A",
+      "numero": "100",
+      "bairro": "Centro",
+      "complemento": "AP 10",
+      "cep": "01001000",
+      "uf": "SP",
+      "nomeMunicipio": "São Paulo"
+    },
+    "devedor": {
+      "nomeIntegracao": {
+        "nome": "Maria Silva"
+      },
+      "documentoPrincipal": {
+        "tipo": "CPF",
+        "numero": "12345678901"
+      },
+      "telefonePrincipal": {
+        "numero": "(11) 99999‑0000"
+      },
+      "emailPrincipal": {
+        "nome": "maria.silva@email.com"
+      },
+      "enderecoIntegracao": {
+        "logradouro": "Rua A",
+        "numero": "100",
+        "bairro": "Centro",
+        "complemento": "AP 10",
+        "cep": "01001000",
+        "uf": "SP",
+        "nomeMunicipio": "São Paulo"
+      }
+    },
+    "ajuizamento": null,
+    "ajuizamentosRemovido": null,
+    "situacaoAtual": {
+      "dataSituacao": "2025-07-23T18:51:32.831311",
+      "tipo": {
+        "id": "1"
+      },
+      "mensagemId": 0
+    },
+    "composicoes": null,
+    "exercicios": null,
+    "vencimentoExercicios": null,
+    "parcelamento": null,
+    "parcelamentosRompidos": null,
+    "valorTotalAtual": 63185.37,
+    "valorTotalSemHonorarios": 63185.37,
+    "valorImpostoAtual": 63185.37,
+    "serie": "1",
+    "livro": "1",
+    "folha": "1"
+  }
+]

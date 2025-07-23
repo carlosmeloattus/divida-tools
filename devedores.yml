@@ -1,0 +1,170 @@
+devedor:
+  - nome: "Maria Silva"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "12345678901"
+    telefonePrincipal:
+      numero: "(11) 99999‑0000"
+    emailPrincipal:
+      nome: "maria.silva@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua A"
+      numero: "100"
+      complemento: "AP 10"
+      bairro: "Centro"
+      cep: "01001000"
+      uf: "SP"
+      nomeMunicipio: "São Paulo"
+
+  - nome: "João Souza"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "98765432100"
+    telefonePrincipal:
+      numero: "(21) 98888‑1111"
+    emailPrincipal:
+      nome: "joao.souza@email.com"
+    enderecoIntegracao:
+      logradouro: "Av. B"
+      numero: "200"
+      complemento: ""
+      bairro: "Barra"
+      cep: "22020002"
+      uf: "RJ"
+      nomeMunicipio: "Rio de Janeiro"
+
+  - nome: "Ana Costa"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "32165498700"
+    telefonePrincipal:
+      numero: "(31) 97777‑2222"
+    emailPrincipal:
+      nome: "ana.costa@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua das Flores"
+      numero: "45"
+      complemento: "Casa 2"
+      bairro: "Jardins"
+      cep: "30140071"
+      uf: "MG"
+      nomeMunicipio: "Belo Horizonte"
+
+  - nome: "Carlos Mendes"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "45612378909"
+    telefonePrincipal:
+      numero: "(41) 96666‑3333"
+    emailPrincipal:
+      nome: "carlos.mendes@email.com"
+    enderecoIntegracao:
+      logradouro: "Av. República"
+      numero: "500"
+      complemento: "Bloco B"
+      bairro: "Centro Cívico"
+      cep: "80010000"
+      uf: "PR"
+      nomeMunicipio: "Curitiba"
+
+  - nome: "Fernanda Lima"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "15975346820"
+    telefonePrincipal:
+      numero: "(71) 95555‑4444"
+    emailPrincipal:
+      nome: "fernanda.lima@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua do Sol"
+      numero: "88"
+      complemento: "Cobertura"
+      bairro: "Ondina"
+      cep: "40170110"
+      uf: "BA"
+      nomeMunicipio: "Salvador"
+
+  - nome: "Ricardo Alves"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "74185296330"
+    telefonePrincipal:
+      numero: "(61) 94444‑5555"
+    emailPrincipal:
+      nome: "ricardo.alves@email.com"
+    enderecoIntegracao:
+      logradouro: "SQS 315"
+      numero: "10"
+      complemento: "Bloco A"
+      bairro: "Asa Sul"
+      cep: "70384000"
+      uf: "DF"
+      nomeMunicipio: "Brasília"
+
+  - nome: "Juliana Rocha"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "85296374100"
+    telefonePrincipal:
+      numero: "(51) 93333‑6666"
+    emailPrincipal:
+      nome: "juliana.rocha@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua Ipê"
+      numero: "123"
+      complemento: ""
+      bairro: "Petrópolis"
+      cep: "90470120"
+      uf: "RS"
+      nomeMunicipio: "Porto Alegre"
+
+  - nome: "Lucas Martins"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "36925814711"
+    telefonePrincipal:
+      numero: "(95) 92222‑7777"
+    emailPrincipal:
+      nome: "lucas.martins@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua Central"
+      numero: "777"
+      complemento: ""
+      bairro: "São Vicente"
+      cep: "69305000"
+      uf: "RR"
+      nomeMunicipio: "Boa Vista"
+
+  - nome: "Patrícia Duarte"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "98732165444"
+    telefonePrincipal:
+      numero: "(82) 91111‑8888"
+    emailPrincipal:
+      nome: "patricia.duarte@email.com"
+    enderecoIntegracao:
+      logradouro: "Av. Marítima"
+      numero: "900"
+      complemento: "Sala 12"
+      bairro: "Pajuçara"
+      cep: "57030100"
+      uf: "AL"
+      nomeMunicipio: "Maceió"
+
+  - nome: "Eduardo Nunes"
+    documentoPrincipal:
+      tipo: CPF
+      numero: "25874136999"
+    telefonePrincipal:
+      numero: "(98) 90000‑9999"
+    emailPrincipal:
+      nome: "eduardo.nunes@email.com"
+    enderecoIntegracao:
+      logradouro: "Rua das Palmeiras"
+      numero: "305"
+      complemento: ""
+      bairro: "Renascença"
+      cep: "65075770"
+      uf: "MA"
+      nomeMunicipio: "São Luís"

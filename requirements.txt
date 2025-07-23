@@ -1,0 +1,8 @@
+# requirements.txt
+faker[pt_BR]
+requests
+typer[prompt_toolkit]
+pydantic
+pyyaml
+retrying
+APIClient
