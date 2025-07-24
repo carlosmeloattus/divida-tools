@@ -82,7 +82,7 @@ def gera_divida(config: dict, devedor: Pessoa) -> Divida:
     # Datas
     dl = random_date(config["ano_inicio"], config["ano_fim"])
     dc = random_date(config["ano_inicio"], config["ano_fim"])
-    df = random_date(config["ano_inicio"], config["ano_fim"])
+    df = random_date(config["ano_inicio"] + 3, config["ano_fim"] + 3)
 
     # Valores
     imposto = round(random.uniform(config["min_valor"], config["max_valor"]), 2)
@@ -110,25 +110,26 @@ def gera_divida(config: dict, devedor: Pessoa) -> Divida:
         dataInscricao=dl,
         dataBase=str(config["ano_fim"]),
         dataLancamento=dl,
+        dataAtualizacaoValores=datetime.now(),
         dataConstituicaoCredito=dc,
         dataCienciaFato=df,
         dataPrescricao=df,
         categoria={"identificadorNoCliente": categoria_id},
         infracao=None,
+        composicoes=[],
         tributo={"identificadorNoCliente": tributo_id},
         orgaoOrigemId=orgao_origem_id,
         natureza="TRIBUTARIA",
         endereco=devedor.enderecoIntegracao,
         devedor=devedor,
         ajuizamento=None,
-        ajuizamentosRemovido=None,
+        ajuizamentosRemovido=[],
         situacaoAtual=SituacaoAtual(
             dataSituacao=datetime.now(),
             tipo={"id": situacao_tipo_id},
             mensagemId=0
         ),
-        composicoes=None,
-        exercicios=None,
+        exercicios=[],
         vencimentoExercicios=None,
         parcelamento=None,
         parcelamentosRompidos=None,

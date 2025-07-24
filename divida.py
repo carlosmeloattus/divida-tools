@@ -87,6 +87,7 @@ class Divida(BaseModel):
     dataInscricao: datetime
     dataBase: Optional[str]
     dataLancamento: datetime
+    dataAtualizacaoValores: datetime
     dataConstituicaoCredito: datetime
     dataCienciaFato: datetime
     dataPrescricao: datetime

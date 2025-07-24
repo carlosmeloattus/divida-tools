@@ -23,16 +23,19 @@ class APIClient:
         }
         data = {
             "grant_type": "password",
-            "username": f"{self.user}@{self.tenant}",
+            "username": f"{self.user}:@{self.tenant}",
             "password": self.password
         }
         url = f"{self.base_url.rstrip('/')}{self.auth_url}"
-        resp = requests.post(url, headers=headers, data=data)
-        resp.raise_for_status()
-        token = resp.json().get("access_token")
-        if not token:
-            raise RuntimeError(f"Login falhou: {resp.text}")
-        return token
+        try:
+            resp = requests.post(url, headers=headers, data=data)
+            resp.raise_for_status()
+            token = resp.json().get("access_token")
+            if not token:
+                raise RuntimeError(f"Login falhou: {resp.text}")
+            return token
+        except requests.RequestException as e:
+            raise RuntimeError(f"Erro na requisição de login: {e}")
 
     def envia_divida(self, divida_json: dict) -> requests.Response:
         url = f"{self.base_url.rstrip('/')}{self.endpoint}"
@@ -40,6 +43,9 @@ class APIClient:
             "Authorization": f"Bearer {self.token}",
             "Content-Type": "application/json"
         }
-        resp = requests.post(url, json=divida_json, headers=headers, timeout=10)
-        resp.raise_for_status()
-        return resp
+        try:
+            resp = requests.post(url, json=divida_json, headers=headers, timeout=10)
+            resp.raise_for_status()
+            return resp
+        except requests.RequestException as e:
+            raise RuntimeError(f"Erro ao enviar dívida: {e}, Resposta: {getattr(e.response, 'text', 'Sem resposta')}")
