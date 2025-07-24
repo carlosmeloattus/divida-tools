@@ -90,9 +90,9 @@ def gera_divida(config: dict, devedor: Pessoa) -> Divida:
     multa = round(random.uniform(0, config.get("max_multa", 0)), 2)
     honor = round(random.uniform(0, config.get("max_honorarios", 0)), 2)
 
-    numero_com_pontos = fake.unique.random_number(digits=10, fix_len=True)
-    numero_com_pontos = f"{numero_com_pontos:010d}"
-    numero_com_pontos = f"{numero_com_pontos[0]}.{numero_com_pontos[1:4]}.{numero_com_pontos[4:7]}.{numero_com_pontos[7:]}"
+    numero = fake.unique.random_number(digits=10, fix_len=True)
+    numero_sem_pontos = f"{numero:010d}"
+    numero_com_pontos = f"{numero_sem_pontos[0]}.{numero_sem_pontos[1:4]}.{numero_sem_pontos[4:7]}.{numero_sem_pontos[7:]}"
 
     categoria_id = random.choice(config.get("categoria_identificadores", ["1"]))
     tributo_id = random.choice(config.get("tributo_identificadores", ["1"]))
@@ -102,7 +102,7 @@ def gera_divida(config: dict, devedor: Pessoa) -> Divida:
     # Cria o objeto Divida
     return Divida(
         identificador=numero_com_pontos,
-        numero=numero_com_pontos,
+        numero=numero_sem_pontos,
         processoInscricao=str(fake.unique.random_number(digits=13)),
         numeroBemFato=None,
         numeroDocumentoFato=None,

@@ -1,6 +1,6 @@
 # main.py
 
-import json
+import json, os, csv
 from pathlib import Path
 from datetime import datetime
 import typer
@@ -14,15 +14,15 @@ app = typer.Typer(add_completion=False, help="Ferramenta CLI para gerar e enviar
 
 
 def carregar_configuracao_yml(caminho: Path) -> dict:
-    texto = caminho.read_text(encoding="utf-8")
-    return yaml.safe_load(texto)
+    return yaml.safe_load(caminho.read_text(encoding="utf-8"))
 
 
 @app.callback(invoke_without_command=True)
 def main(
-        quantidade: int = typer.Option(10, "--quantidade", "-q", help="Número de dívidas a gerar"),
-        arquivo_config: Path = typer.Option(Path("config.yml"), "--config", "-c", help="Arquivo de configuração YAML"),
-        somente_simulacao: bool = typer.Option(False, "--simulacao", "-s", help="Gera JSON, não envia para a API"),
+    quantidade: int = typer.Option(10, "--quantidade", "-q", help="Número de dívidas a gerar"),
+    arquivo_config: Path = typer.Option(Path("config.yml"), "--config", "-c", help="Arquivo de configuração YAML"),
+    somente_simulacao: bool = typer.Option(False, "--simulacao", "-s", help="Gera JSON, não envia para a API"),
+    exportar_csv: bool = typer.Option(False, "--csv", help="Também exporta CSV com coluna 'numero'"),
 ):
     """
     Gera um lote de dívidas fictícias e, se não for modo 'simulação', envia para a API configurada.
@@ -43,11 +43,19 @@ def main(
     typer.echo(f"  • Auth path   : {cfg_api['auth']['url']}")
     typer.echo(f"  • Tenant      : {cfg_api['tenant']}")
     typer.echo(f"  • Simulação   : {'Sim' if somente_simulacao else 'Não'}")
+    typer.echo(f"  • CSV         : {'Sim' if exportar_csv else 'Não'}")
+
+
+
 
     # 3) Confirmação interativa
     if not typer.confirm("\nDeseja continuar com estas configurações?"):
         typer.secho("🚫 Operação abortada pelo usuário.", fg=typer.colors.RED)
         raise typer.Exit()
+
+    # Cria pasta de saída
+    out_dir = Path("output")
+    out_dir.mkdir(exist_ok=True)
 
     # 4) Se não for simulação, autentica na API
     cliente_api = None
@@ -78,13 +86,22 @@ def main(
 
         lista_dividas.append(payload)
 
-    # 6) Salva todas as dívidas em um arquivo JSON timestamped
+    # Salva JSON
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    nome_arquivo = Path(f"dividas_{timestamp}.json")
-    conteudo_json = json.dumps(lista_dividas, ensure_ascii=False, indent=2)
+    json_file = out_dir / f"dividas_{timestamp}.json"
+    json_content = json.dumps(lista_dividas, ensure_ascii=False, indent=2)
+    json_file.write_text(json_content, encoding="utf-8")
+    typer.secho(f"\n✅ JSON salvo em: {json_file}", fg=typer.colors.GREEN)
 
-    nome_arquivo.write_text(conteudo_json, encoding="utf-8")
-    typer.secho(f"\n✅ Arquivo salvo: {nome_arquivo}", fg=typer.colors.GREEN)
+    # Exporta CSV se solicitado
+    if exportar_csv:
+        csv_file = out_dir / f"dividas_{timestamp}.csv"
+        with open(csv_file, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow(["numero"])
+            for d in lista_dividas:
+                writer.writerow([d["numero"]])
+        typer.secho(f"✅ CSV salvo em: {csv_file}", fg=typer.colors.GREEN)
 
 
 if __name__ == "__main__":
